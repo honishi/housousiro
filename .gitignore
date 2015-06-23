@@ -1,0 +1,6 @@
+# python
+*.pyc
+
+# idea
+.idea/
+*.iml
